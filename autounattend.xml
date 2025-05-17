@@ -16,7 +16,7 @@
             <!-- https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-setup -->
             <UserData>
                 <ProductKey>
-                    <Key>MFY9F-XBN2F-TYFMP-CCV49-RMYVH</Key>
+                    <Key>TVRH6-WHNXV-R9WG3-9XRFY-MY832</Key>
                     <WillShowUI>OnError</WillShowUI>
                 </ProductKey>
                 <AcceptEula>true</AcceptEula>
